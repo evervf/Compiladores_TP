@@ -1,0 +1,27 @@
+{  
+   "personas":  [
+      {  
+         "ci":1234567,
+         "nombre":"Ever Velazquez",
+         "casado":false,
+         "hijos":[  
+
+         ]
+      },
+      {  
+         "ci":7654321,
+         "nombre":"Ever Velazquez2",
+         "casado":true,
+         "hijos":[  
+            {  
+               "nombre":"Agustin",
+               "edad":10
+            },
+            {  
+               "nombre":"Franco",
+               "edad":10
+            }
+         ]
+      }
+   ]
+}
