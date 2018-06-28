@@ -1,4 +1,4 @@
-#include "lexico.h"
+#include "analizador_lexico.h"
 
 /************* Variables globales **************/
 
