@@ -1,5 +1,5 @@
-/*********** Inclusión de cabecera **************/
-#include "lexico.c"
+/*********** InclusiÃ³n de cabecera **************/
+#include "analizador_lexico.c"
 #define CANT_COMP_LEX 10
 
 /***********************************
