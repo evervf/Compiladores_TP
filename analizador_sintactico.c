@@ -1,4 +1,4 @@
-#include "sintactico.h"
+#include "analizador_sintactico.h"
 
 /***********************************/
 
